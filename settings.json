@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "20smp.aternos.me:15344",
+    "ip": "20smp.aternos.me",
     "port": 15344,
     "version": "1.21.1"
   },
